@@ -126,6 +126,7 @@
 		3B9675CE2790937700C95A15 /* equation-converter.entitlements */ = {isa = PBXFileReference; lastKnownFileType = text.plist.entitlements; path = "equation-converter.entitlements"; sourceTree = "<group>"; };
 		3B9675FD279320C000C95A15 /* ASCIIMathTeXImg.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = ASCIIMathTeXImg.js; sourceTree = "<group>"; };
 		3BCE551027953C6B00C8EA5A /* mathJax.js */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.javascript; path = mathJax.js; sourceTree = "<group>"; };
+		3BD0E8712796A1AF007E6B81 /* README.md */ = {isa = PBXFileReference; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -163,6 +164,7 @@
 		3B9675832790937400C95A15 = {
 			isa = PBXGroup;
 			children = (
+				3BD0E8712796A1AF007E6B81 /* README.md */,
 				3B9675882790937500C95A15 /* Shared (App) */,
 				3B9675912790937600C95A15 /* Shared (Extension) */,
 				3B9675A22790937600C95A15 /* iOS (App) */,
