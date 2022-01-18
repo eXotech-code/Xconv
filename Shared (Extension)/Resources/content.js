@@ -1,6 +1,7 @@
 // Include the pre tags in MathJax render but remove other unnecessary shit.
 MathJax = {
   options: {
+    enableMenu: false,
     skipHtmlTags: [
         'script', 'noscript', 'style', 'textarea',
         'code', 'annotation', 'annotation-xml'
